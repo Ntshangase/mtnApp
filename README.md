@@ -2,7 +2,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was done during my MTN App Academy Course, where i had to built an application with an splash screen and mantain a common theme throughout the app.
 
-to run command 'flutter run'
+to run use 'flutter run' command, 
 if you using vs code the run will appear on main.dart file
